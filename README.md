@@ -1,2 +1,1 @@
-# ai-project-34
-Generating project...
+# Welcome to your Lovable project
