@@ -17,7 +17,7 @@ const Index = () => {
 
   const handleGetStarted = () => {
     toast({
-      title: "Welcome to Hasan!",
+      title: "Welcome to Hasan! Project",
       description: "Let's build something amazing together.",
     });
   };
